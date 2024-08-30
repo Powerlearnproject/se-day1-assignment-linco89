@@ -32,23 +32,50 @@ MAINTENANCE:This is the last stage in software development life cycle. It involv
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall is a rigid methodology and a linear system that requires a team to complete each project phases before moving to the next one. Its good for projects that has a well defined goal and doesnt change in a long run.
+
+Agile methodolog is  flexible in nature, and allow room for team to work on different phases of the project simultaneously. It is suited for project undergoing research and testing.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+A software developer writes the code needed to build the software, a quality assuarance engineer tests the software for standard quality by designing tests, while a project manager oversees the planning, execution and delivery of software.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+IDEs are Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+
+VCS are Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+Tight deadline, funding issues, changing rquirements.
+
+Some of the ways to overcome these are by:
+
+Efective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+ - Unit Testing: Testing individual components or modules of software.
+  - Integration Testing: Testing interactions between different components or subsystems.
+  - System Testing: Testing the entire software system as a whole.
+  - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+  - 
+Importance of Quality Control: Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering can be defined as the process of giving and specifying statements to get the best response and answers from an AI.
 
+Its very important because it enables us to get accurate and best responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+"what's the best university in Nigeria?" 
+The best question could be " whats the best university of technology in Nigeria"
+
+The latter is better because the question is specified and directed.
